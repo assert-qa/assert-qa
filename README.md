@@ -33,7 +33,7 @@ Focused on <b>Automation Testing • API Testing • Test Framework Development<
 | **Frameworks** | Page Object Model (POM) • BDD (Cucumber) • Modular • Hybrid |
 | **DevOps & CI/CD** | Jenkins • GitHub Actions |
 | **Database** | MySQL • SQL Server • PostgreSQL |
-| **Core Languages** | Java • TypeScript • Python |
+| **Core Languages** | Java • JavaScript • TypeScript • Python |
 
 ---
 
