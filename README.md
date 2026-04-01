@@ -31,6 +31,7 @@ Focused on <b>Automation Testing • API Testing • Test Framework Development<
 | **Automation** | Selenium • Playwright |
 | **API Testing** | Postman • REST API Testing • Schema Validation|
 | **Frameworks** | Page Object Model (POM) • BDD (Cucumber) • Modular • Hybrid |
+| **Performance** | Gatling • K6 |
 | **DevOps & CI/CD** | Jenkins • GitHub Actions |
 | **Database** | MySQL • SQL Server • PostgreSQL |
 | **Core Languages** | Java • JavaScript • TypeScript • Python |
